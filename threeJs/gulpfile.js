@@ -8,7 +8,7 @@ const browserSync = require('browser-sync');
 
 const paths = {
   'scss' : 'src/css/**/*.scss',
-  'pug' : 'src/pug/**/*.pug',
+  'pug' : 'src/**/*.pug',
   'css' : 'dest/css/',
   'html' : 'dest/',
   'js' : 'dest/js/'

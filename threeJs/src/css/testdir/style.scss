@@ -1,0 +1,12 @@
+
+
+// 変数のテスト
+$fontColor: #f00;
+
+h1 {
+  color: $fontColor;
+}
+
+body {
+  background: #ddd;
+}
